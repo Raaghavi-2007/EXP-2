@@ -55,7 +55,7 @@ Tabulation for Load Test:
 
 Model graph:
 <img width="980" height="1280" alt="image" src="https://github.com/user-attachments/assets/a3954df4-7411-4ad9-a6cb-dfd73a9eca1c" />
-<img width="992" height="1280" alt="image" src="https://github.com/user-attachments/assets/ed86b264-c327-482d-91b2-506f0780857b" />
+<img width="1000" height="1280" alt="image" src="https://github.com/user-attachments/assets/b5c3ff90-2cc7-4130-bc9e-278d86484486" />
 
 Calculation: 
 

@@ -64,8 +64,8 @@ Calculation:
 
 Open circuit characteristics:
 <img width="862" height="1280" alt="image" src="https://github.com/user-attachments/assets/a2a4f259-a549-4786-8992-e35bb4f9958a" />
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/20b20021-fdad-42df-82be-38d4b5032e2a" />
-  
+<img width="966" height="824" alt="image" src="https://github.com/user-attachments/assets/a92992a6-170e-4eb6-ab7f-733cf5226eaa" />
+
 Load Characteristics:
 
 <img width="827" height="1280" alt="image" src="https://github.com/user-attachments/assets/977ef7b5-7fae-454e-9f9f-3560673e90ce" />
